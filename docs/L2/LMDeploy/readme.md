@@ -1,4 +1,6 @@
-![img](https://raw.githubusercontent.com/BigWhiteFox/pictures/main/111.png)
+
+<img width="900" alt="L2-2" src="https://github.com/user-attachments/assets/5b2c1c5f-365c-41d1-a913-f628ca8548c1">
+
 
 # 1 配置LMDeploy环境
 
