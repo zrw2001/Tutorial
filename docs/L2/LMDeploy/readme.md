@@ -31,6 +31,8 @@ conda create -n lmdeploy  python=3.10 -y
 conda activate lmdeploy
 conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=12.1 -c pytorch -c nvidia -y
 pip install timm==1.0.8 openai==1.40.3 lmdeploy[all]==0.5.3
+
+pip install datasets==2.19.2
 ```
 
 ## 1.2 InternStudio环境获取模型
