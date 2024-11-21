@@ -120,7 +120,11 @@ https://modelscope.cn/models/Ceceliachenen/paraphrase-multilingual-MiniLM-L12-v2
 ```
 git lfs install
 
-git clone https://www.modelscope.cn/Ceceliachenen/paraphrase-multilingual-MiniLM-L12-v2.git /root/model/sentence-transformer
+cd /root/model/
+
+git clone https://www.modelscope.cn/Ceceliachenen/paraphrase-multilingual-MiniLM-L12-v2.git
+
+mv paraphrase-multilingual-MiniLM-L12-v2 sentence-transformer
 ```
 
 
